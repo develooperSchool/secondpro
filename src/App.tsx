@@ -5,8 +5,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h1> WE are learn a docker </h1>
-
+      <h1> Sample react app with Docker </h1>
     </div>
   );
 }
